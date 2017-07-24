@@ -1,0 +1,19 @@
+title = "Inazuma Eleven Go Light/Shadow"
+description = "This game was made by leven 5 and marketed  in 2011 in japan and in 2014 in europe. The history is about Arion Sherwind that is a boy that loves football. He joins the raimon high school at the beggining of the history. He joins to the football club and he take part in the team. So, the football is controlled by Sector fifth and they send a team called the dark nights to destroy the football club. With the help of Mark Evans they must win the imperial road.\nGenre: Football, rol, adventures"
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000054300"
+region = "eur"
+release_date = "2014-06-13"
+
+[[testcases]]
+title = "0004000000054300"
+compatibility = "3"
+date = "2017-07-24"
+version = "HEAD-081304e"
+cpu = "Intel Core i5-4440"
+gpu = "AMD Radeon R7 200 series "
+os = "Windows 10 15063"
+author = "ferkrauser"
